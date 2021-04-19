@@ -1,7 +1,7 @@
 package com.gmail.torandersonto;
 
 /**
- * Esta clase padre contiene las varaibles principales para el objeto planta, se crean objetos GET y SET
+ * Esta clase padre contiene las variables principales para el objeto planta, se crean objetos GET y SET
  * y un metodo que permite calcular los dias que trasncurren hasta que la planta alcanza 30 cm
  * @author Anderson Y. Torres Q. torandersonq@gmail.com
  * @version 1.0

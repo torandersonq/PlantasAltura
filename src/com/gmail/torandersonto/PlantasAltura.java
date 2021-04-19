@@ -1,7 +1,7 @@
 package com.gmail.torandersonto;
 
 /**
- * Esta es la clase principal que se encaarga de crear los objetos y llamar los metodos
+ * Esta es la clase principal que se encarga de crear los objetos y llamar los metodos
  * de la clase Planta padre para ejecutar el metodo de calculo y mostrar resultados
  * @author Anderson Y. Torres Q. torandersonq@gmail.com
  * @version 1.0
